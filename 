@@ -1,0 +1,65 @@
+[33mb9abab1[m[33m ([m[1;36mHEAD -> [m[1;32mtest.now[m[33m)[m HEAD@{0}: cherry-pick: third commit for test.now
+[33m09fb8f2[m HEAD@{1}: cherry-pick: second commit for test.now
+[33m7ad8058[m HEAD@{2}: checkout: moving from recover2 to test.now
+[33m09a84a9[m[33m ([m[1;33mtag: ver1.2[m[33m)[m HEAD@{3}: checkout: moving from test.now to recover2
+[33m7ad8058[m HEAD@{4}: reset: moving to 7ad8
+[33m09a84a9[m[33m ([m[1;33mtag: ver1.2[m[33m)[m HEAD@{5}: checkout: moving from master to test.now
+[33m7e816f0[m[33m ([m[1;31mtest/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{6}: commit (merge): all commit
+[33m491be8d[m[33m ([m[1;33mtag: fix1.0[m[33m, [m[1;32mfix[m[33m)[m HEAD@{7}: checkout: moving from test.now to master
+[33m09a84a9[m[33m ([m[1;33mtag: ver1.2[m[33m)[m HEAD@{8}: checkout: moving from master to test.now
+[33m09a84a9[m[33m ([m[1;33mtag: ver1.2[m[33m)[m HEAD@{9}: commit: third commit for test.now
+[33mf20f777[m HEAD@{10}: commit: second commit for test.now
+[33m7ad8058[m HEAD@{11}: commit: Make new file for test
+[33m4aaa9bf[m HEAD@{12}: checkout: moving from recover to master
+[33mf5b996b[m[33m ([m[1;32mrecover[m[33m)[m HEAD@{13}: reset: moving to HEAD
+[33mf5b996b[m[33m ([m[1;32mrecover[m[33m)[m HEAD@{14}: reset: moving to @~1
+[33m5ab966d[m HEAD@{15}: reset: moving to HEAD
+[33m5ab966d[m HEAD@{16}: commit: new line for test diff
+[33mf5b996b[m[33m ([m[1;32mrecover[m[33m)[m HEAD@{17}: checkout: moving from master to recover
+[33m4aaa9bf[m HEAD@{18}: commit (amend): last commit
+[33m3ca6372[m HEAD@{19}: commit: lost commit
+[33m931ac29[m HEAD@{20}: checkout: moving from recover to master
+[33mf5b996b[m[33m ([m[1;32mrecover[m[33m)[m HEAD@{21}: commit (amend): test amend now
+[33mdbd98a4[m HEAD@{22}: commit (amend): test amend now
+[33m66cd4a9[m HEAD@{23}: commit (amend): test amend now
+[33m3d47141[m HEAD@{24}: commit: test amend
+[33mcf7553d[m HEAD@{25}: checkout: moving from reflog to recover
+[33m52f156b[m[33m ([m[1;32mreflog[m[33m)[m HEAD@{26}: reset: moving to 52f1
+[33mcf7553d[m HEAD@{27}: filter-branch: rewrite
+[33mb2907a5[m HEAD@{28}: commit: commit password
+[33m776ec9d[m HEAD@{29}: checkout: moving from master to reflog
+[33m931ac29[m HEAD@{30}: commit: test ref
+[33m776ec9d[m HEAD@{31}: checkout: moving from reflog to master
+[33mce3058c[m HEAD@{32}: commit: test reflog
+[33m776ec9d[m HEAD@{33}: checkout: moving from master to reflog
+[33m776ec9d[m HEAD@{34}: checkout: moving from fix to master
+[33m491be8d[m[33m ([m[1;33mtag: fix1.0[m[33m, [m[1;32mfix[m[33m)[m HEAD@{35}: checkout: moving from master to fix
+[33m776ec9d[m HEAD@{36}: checkout: moving from fix to master
+[33m491be8d[m[33m ([m[1;33mtag: fix1.0[m[33m, [m[1;32mfix[m[33m)[m HEAD@{37}: commit: Make new file for testing stash
+[33m0a28acc[m HEAD@{38}: checkout: moving from master to fix
+[33m776ec9d[m HEAD@{39}: reset: moving to HEAD
+[33m776ec9d[m HEAD@{40}: filter-branch: rewrite
+[33me984352[m HEAD@{41}: commit: password test commit
+[33m52f156b[m[33m ([m[1;32mreflog[m[33m)[m HEAD@{42}: checkout: moving from feature to master
+[33m84b70cf[m[33m ([m[1;32mfeature[m[33m)[m HEAD@{43}: rebase (finish): returning to refs/heads/feature
+[33m84b70cf[m[33m ([m[1;32mfeature[m[33m)[m HEAD@{44}: rebase (pick): Make new file rebase.txt
+[33m52f156b[m[33m ([m[1;32mreflog[m[33m)[m HEAD@{45}: rebase (start): checkout master
+[33m25a50fa[m HEAD@{46}: checkout: moving from master to feature
+[33m52f156b[m[33m ([m[1;32mreflog[m[33m)[m HEAD@{47}: checkout: moving from feature to master
+[33m25a50fa[m HEAD@{48}: commit: Make new file rebase.txt
+[33mac8964a[m HEAD@{49}: checkout: moving from master to feature
+[33m52f156b[m[33m ([m[1;32mreflog[m[33m)[m HEAD@{50}: commit: new commit for rebase
+[33mac8964a[m HEAD@{51}: commit: back to previous version file
+[33m21cd033[m HEAD@{52}: commit: Modify: add second line to file.back
+[33mdc8860e[m HEAD@{53}: commit: Modified: modify new.rep
+[33m2e4cd94[m HEAD@{54}: commit: Make new file file.bach with first line
+[33m3414e92[m HEAD@{55}: checkout: moving from fix to master
+[33m0a28acc[m HEAD@{56}: cherry-pick: Make new file chery
+[33m01f8a24[m HEAD@{57}: checkout: moving from master to fix
+[33m3414e92[m HEAD@{58}: commit: Make new file chery
+[33m84711c8[m[33m ([m[1;33mtag: ver.1[m[33m)[m HEAD@{59}: checkout: moving from fix to master
+[33m01f8a24[m HEAD@{60}: checkout: moving from master to fix
+[33m01f8a24[m HEAD@{61}: commit: Rename: file new to test.transfer
+[33ma83bb84[m HEAD@{62}: commit: make new file new
+[33m84711c8[m[33m ([m[1;33mtag: ver.1[m[33m)[m HEAD@{63}: commit: new file
+[33m5956788[m HEAD@{64}: commit (initial): Make new file
