@@ -1,4 +1,8 @@
 testing chery-pick
 new content
+<<<<<<< Updated upstream
 test ref
 work
+=======
+test diff
+>>>>>>> Stashed changes
